@@ -2,6 +2,7 @@ import openpyxl as xl
 from openpyxl.chart import BarChart, Reference
 
 # Increase the price in a book
+# input new values
 
 
 def process_workbook(file_name):
